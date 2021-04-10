@@ -1,0 +1,35 @@
+html{
+  position: relative;
+}
+body{
+  margin-bottom: 100px;
+}
+.jumbotron img{
+  width: 200px;
+  border:5px solid #333;
+  background-color: rgb(65, 13, 114); 
+ }
+ 
+ .hr{
+   width: 250px solid #555;
+   border-top:2px solid #333;
+ }
+ section{
+   min-height: 300px;
+ }
+ .contact {
+    min-height: 800px;
+ }
+ footer{
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 100px;
+   background-color: rgb(111, 43, 167);
+   padding-top: 30px;
+ }
+ footer p{
+   color: rgb(245, 237, 237);
+   font-size: medium;
+   text-align: center;
+ }
